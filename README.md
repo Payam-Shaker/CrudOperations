@@ -1,6 +1,7 @@
 # crud-payam NuGet Package
 
-This is a class library which facilitates easier CRUD operations against EF-databases using a generic class which accepts any type.
+This is a class library which facilitates easier CRUD operations against EF-databases using a generic class which accepts any type, available at:
+https://www.nuget.org/packages/crud-payam/1.0.3
 
 ## Installation
 
